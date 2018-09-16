@@ -1,1093 +1,496 @@
 #EXTM3U
+
 #EXTINF:-1,DE: Eurosport 2 HD Xtra
 http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/5245.ts
+
 #EXTINF:-1,DE: Sky 1 HD
 http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1028.ts
+
 #EXTINF:-1,DE: Sky Atlantic HD
 http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1002.ts
+
 #EXTINF:-1,DE: DAZN 1 Bar HD
 http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15586.ts
+
 #EXTINF:-1,DE: DAZN 2 Bar HD
 http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15587.ts
+
 #EXTINF:-1,Sky Select 1: Skyscraper
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15643.mkv
+
 #EXTINF:-1,Sky Select 2: Molly's Game
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15191.mkv
+
 #EXTINF:-1,Sky Select 3: I Kill Giants
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15175.mkv
+
 #EXTINF:-1,Sky Select 4: Rampage - Big meets Bigger
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15253.mkv
+
 #EXTINF:-1,Sky Select 5: Criminal Squad
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15085.mkv
+
 #EXTINF:-1,Sky Select 6: Die Sch'tis in Paris
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15269.mkv
+
 #EXTINF:-1,Sky Select 7: Dieses bescheuerte Herz
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15192.mkv
+
 #EXTINF:-1,Sky Select 8: Game Night
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/14929.mkv
-#EXTINF:-1,Sky Select 9: Jurassic World 2 : Das gefallene Königreich
+
+#EXTINF:-1,Sky Select 9: Jurassic World 2 : Das gefallene Kï¿½nigreich
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15270.mkv
+
 #EXTINF:-1,Sky Select 10: Ready Player One
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15119.mkv
+
 #EXTINF:-1,Sky Select 11: Pacific Rim 2: Uprising
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15144.mkv
+
 #EXTINF:-1,Sky Select 12: Red Sparrow
 http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15133.mkv
 
-#EXTINF:-1,DE:ZDF HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8773.ts
-#EXTINF:-1,DE: Zdf HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8788.ts
-#EXTINF:-1,DE:ZDFneo
-http://145.239.0.158:8080/live/mehmet/mehmet123/8774.ts
-#EXTINF:-1,DE:Zee One
-http://145.239.0.158:8080/live/mehmet/mehmet123/8775.ts
-#EXTINF:-1,DE: Zee One
-http://145.239.0.158:8080/live/mehmet/mehmet123/8789.ts
-#EXTINF:-1,DE: Das Erste
-http://145.239.0.158:8080/live/mehmet/mehmet123/8777.ts
-#EXTINF:-1,DE:ONE HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8712.ts
-#EXTINF:-1,DE:WDR  HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8770.ts
-#EXTINF:-1,DE: Rtl HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8782.ts
-#EXTINF:-1,DE:RTL 2 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8717.ts
-#EXTINF:-1,DE: Rtl 2 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8781.ts
-#EXTINF:-1,DE:RTL Crime HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8718.ts
-#EXTINF:-1,DE:RTL HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8719.ts
-#EXTINF:-1,DE:RTL Nitro HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8720.ts
-#EXTINF:-1,DE:RTL Passion
-http://145.239.0.158:8080/live/mehmet/mehmet123/8721.ts
-#EXTINF:-1,DE:RTLplus
-http://145.239.0.158:8080/live/mehmet/mehmet123/8722.ts
-#EXTINF:-1,DE:Super RTL HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8759.ts
-#EXTINF:-1,DE: Super Rtl HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8785.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8778.ts
-#EXTINF:-1,DE: ProSieben HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8780.ts
-#EXTINF:-1,DE:ProSieben HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8714.ts
-#EXTINF:-1,DE:ProSieben MAXX
-http://145.239.0.158:8080/live/mehmet/mehmet123/8715.ts
-#EXTINF:-1,DE: Sat.1 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8783.ts
-#EXTINF:-1,DE:Sat.1 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8724.ts
-#EXTINF:-1,DE:SAT.1 Gold HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8723.ts
-#EXTINF:-1,DE: Vox HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8787.ts
-#EXTINF:-1,DE:VOX HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8769.ts
-#EXTINF:-1,DE:3sat HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8676.ts
-#EXTINF:-1,DE:Anixe HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8677.ts
-#EXTINF:-1,DE:NDR HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8709.ts
-#EXTINF:-1,DE:ROMANCE TV
-http://145.239.0.158:8080/live/mehmet/mehmet123/8716.ts
-#EXTINF:-1,DE:Welt (N24 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8771.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://145.239.0.158:8080/live/mehmet/mehmet123/8674.ts
-#EXTINF:-1,DE:13th Street HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8675.ts
-#EXTINF:-1,DE:Sixx HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8725.ts
-#EXTINF:-1,DE: Sixx HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8784.ts
-#EXTINF:-1,DE: KABEL 1 DOKU HD 720p
-http://145.239.0.158:8080/live/mehmet/mehmet123/8955.ts
-#EXTINF:-1,DE: KABEL 1 DOKU
-http://145.239.0.158:8080/live/mehmet/mehmet123/9430.ts
-#EXTINF:-1,DE:Baden-Tv
-http://145.239.0.158:8080/live/mehmet/mehmet123/8680.ts
-#EXTINF:-1,DE:Boomerang
-http://145.239.0.158:8080/live/mehmet/mehmet123/8681.ts
-#EXTINF:-1,DE:Cartoon Network
-http://145.239.0.158:8080/live/mehmet/mehmet123/8682.ts
-#EXTINF:-1,DE:Das Erste HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8683.ts
-#EXTINF:-1,DE:Discovery Channel HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8684.ts
-#EXTINF:-1,DE:Disney Channel
-http://145.239.0.158:8080/live/mehmet/mehmet123/8685.ts
-#EXTINF:-1,DE:Disney Cinemagic HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8686.ts
-#EXTINF:-1,DE:Disney Junior
-http://145.239.0.158:8080/live/mehmet/mehmet123/8687.ts
-#EXTINF:-1,DE:Disney XD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8688.ts
-#EXTINF:-1,DE:DMAX
-http://145.239.0.158:8080/live/mehmet/mehmet123/8689.ts
-#EXTINF:-1,DE:DRF 1
-http://145.239.0.158:8080/live/mehmet/mehmet123/8690.ts
-#EXTINF:-1,DE:E! Entertainm. HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8691.ts
-#EXTINF:-1,DE:Family TV HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8696.ts
-#EXTINF:-1,DE:Fox Serie
-http://145.239.0.158:8080/live/mehmet/mehmet123/8697.ts
-#EXTINF:-1,DE:Heimatkanal
-http://145.239.0.158:8080/live/mehmet/mehmet123/8698.ts
-#EXTINF:-1,DE:History HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8699.ts
-#EXTINF:-1,DE:HR
-http://145.239.0.158:8080/live/mehmet/mehmet123/8700.ts
-#EXTINF:-1,DE:Jukebox
-http://145.239.0.158:8080/live/mehmet/mehmet123/8701.ts
-#EXTINF:-1,DE:Junior
-http://145.239.0.158:8080/live/mehmet/mehmet123/8702.ts
-#EXTINF:-1,DE:Kabel eins HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8703.ts
-#EXTINF:-1,DE:KIKA HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8704.ts
-#EXTINF:-1,DE:MTV HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8705.ts
-#EXTINF:-1,DE:n-tv HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8706.ts
-#EXTINF:-1,DE:Nat Geo Wild HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8707.ts
-#EXTINF:-1,DE:National Geographic HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8708.ts
-#EXTINF:-1,DE:Nickelodeon HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8710.ts
-#EXTINF:-1,DE:NRJ TV
-http://145.239.0.158:8080/live/mehmet/mehmet123/8711.ts
-#EXTINF:-1,DE:Phoenix HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8713.ts
-#EXTINF:-1,DE: ANIXE SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8776.ts
-#EXTINF:-1,DE: N24 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8779.ts
-#EXTINF:-1,DE: TLC HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8786.ts
-#EXTINF:-1,DE:SR HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8758.ts
-#EXTINF:-1,DE:SWR BW HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8760.ts
-#EXTINF:-1,DE:SYFY HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8761.ts
-#EXTINF:-1,DE:Tele 5
-http://145.239.0.158:8080/live/mehmet/mehmet123/8762.ts
-#EXTINF:-1,DE:TLC
-http://145.239.0.158:8080/live/mehmet/mehmet123/8763.ts
-#EXTINF:-1,DE:TNT Comedy HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8764.ts
-#EXTINF:-1,DE:TNT Film (TCM)
-http://145.239.0.158:8080/live/mehmet/mehmet123/8765.ts
-#EXTINF:-1,DE:TNT Serie HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8766.ts
-#EXTINF:-1,DE:Universal HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8767.ts
-#EXTINF:-1,DE:VIVA HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8768.ts
-#EXTINF:-1,DE:XITE HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8772.ts
-#EXTINF:-1,DE:Spiegel Geschichte
-http://145.239.0.158:8080/live/mehmet/mehmet123/8755.ts
-#EXTINF:-1,DE:Sky Arts HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8726.ts
-#EXTINF:-1,DE: Sky Select 3D Live
-http://145.239.0.158:8080/live/mehmet/mehmet123/8803.ts
-#EXTINF:-1,DE: Sky Select Live 1
-http://145.239.0.158:8080/live/mehmet/mehmet123/8791.ts
-#EXTINF:-1,DE: Sky Select Live 10
-http://145.239.0.158:8080/live/mehmet/mehmet123/8800.ts
-#EXTINF:-1,DE: Sky Select Live 11
-http://145.239.0.158:8080/live/mehmet/mehmet123/8801.ts
-#EXTINF:-1,DE: Sky Select Live 12
-http://145.239.0.158:8080/live/mehmet/mehmet123/8802.ts
-#EXTINF:-1,DE: Sky Select Live 2
-http://145.239.0.158:8080/live/mehmet/mehmet123/8792.ts
-#EXTINF:-1,DE: Sky Select Live 3
-http://145.239.0.158:8080/live/mehmet/mehmet123/8793.ts
-#EXTINF:-1,DE: Sky Select Live 4
-http://145.239.0.158:8080/live/mehmet/mehmet123/8794.ts
-#EXTINF:-1,DE: Sky Select Live 5
-http://145.239.0.158:8080/live/mehmet/mehmet123/8795.ts
-#EXTINF:-1,DE: Sky Select Live 6
-http://145.239.0.158:8080/live/mehmet/mehmet123/8796.ts
-#EXTINF:-1,DE: Sky Select Live 7
-http://145.239.0.158:8080/live/mehmet/mehmet123/8797.ts
-#EXTINF:-1,DE: Sky Select Live 8
-http://145.239.0.158:8080/live/mehmet/mehmet123/8798.ts
-#EXTINF:-1,DE: Sky Select Live 9
-http://145.239.0.158:8080/live/mehmet/mehmet123/8799.ts
-#EXTINF:-1,DE: Sky Select Vitrine
-http://145.239.0.158:8080/live/mehmet/mehmet123/8790.ts
-#EXTINF:-1,DE:Sky Atlantic HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8727.ts
-#EXTINF:-1,DE:Sky Cinema   24
-http://145.239.0.158:8080/live/mehmet/mehmet123/8729.ts
-#EXTINF:-1,DE:Sky Cinema  1
-http://145.239.0.158:8080/live/mehmet/mehmet123/8728.ts
-#EXTINF:-1,DE:Sky Cinema Action HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8730.ts
-#EXTINF:-1,DE:Sky Cinema Comedy
-http://145.239.0.158:8080/live/mehmet/mehmet123/8731.ts
-#EXTINF:-1,DE:Sky Cinema Emotion
-http://145.239.0.158:8080/live/mehmet/mehmet123/8732.ts
-#EXTINF:-1,DE:Sky cinema Family
-http://145.239.0.158:8080/live/mehmet/mehmet123/8733.ts
-#EXTINF:-1,DE:Sky Cinema HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8734.ts
-#EXTINF:-1,DE:Sky Cinema Hits HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8735.ts
-#EXTINF:-1,DE:Sky Cinema Nostalgie
-http://145.239.0.158:8080/live/mehmet/mehmet123/8736.ts
-#EXTINF:-1,DE:Sky Krimi
-http://145.239.0.158:8080/live/mehmet/mehmet123/8737.ts
-#EXTINF:-1,DE: Film Club 1 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12336.ts
-#EXTINF:-1,DE: Film Club 2 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12335.ts
-#EXTINF:-1,DE: Film Club 3 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12334.ts
-#EXTINF:-1,DE: Film Club 4 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12333.ts
-#EXTINF:-1,DE: Film Club 5 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12332.ts
-#EXTINF:-1,DE: Sky Cinema  1 SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12330.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12322.ts
-#EXTINF:-1,DE: Sky Cinema  24 SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12329.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12318.ts
-#EXTINF:-1,DE: Sky Cinema Action SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12325.ts
-#EXTINF:-1,DE: Sky Cinema Comedy HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12319.ts
-#EXTINF:-1,DE: Sky Cinema Comedy SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12326.ts
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12317.ts
-#EXTINF:-1,DE: Sky Cinema Emotion SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12324.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12320.ts
-#EXTINF:-1,DE: Sky Cinema Family SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12327.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12323.ts
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12321.ts
-#EXTINF:-1,DE: Sky Cinema Hits SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12328.ts
-#EXTINF:-1,DE: Sky Cinema SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/12331.ts
-#EXTINF:-1,DE: Sky Select 3D Live (Rampage-Big meets Bigger)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12337.ts
-#EXTINF:-1,DE: Sky Select FHD 1 (Avengers 3-Infinity War)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12349.ts
-#EXTINF:-1,DE: Sky Select FHD 10 (Rampage-Big Meets Bigger)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12340.ts
-#EXTINF:-1,DE: Sky Select FHD 11 (Hot Dog)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12339.ts
-#EXTINF:-1,DE: Sky Select FHD 12 (Sherlock Gnomes)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12338.ts
-#EXTINF:-1,DE: Sky Select FHD 2 (Nur Gott kann mich richten)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12348.ts
-#EXTINF:-1,DE: Sky Select FHD 3 (Der Sex Pakt)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12347.ts
-#EXTINF:-1,DE: Sky Select FHD 4 (Lady Bird)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12346.ts
-#EXTINF:-1,DE: Sky Select FHD 5 (Dieses bescheuerte Herz)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12345.ts
-#EXTINF:-1,DE: Sky Select FHD 6 (Pacific Rim 2-Uprising)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12344.ts
-#EXTINF:-1,DE: Sky Select FHD 7 (Die kleine Hexe)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12343.ts
-#EXTINF:-1,DE: Sky Select FHD 8 (Game Night)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12342.ts
-#EXTINF:-1,DE: Sky Select FHD 9 (Unsane-Ausgeliefert)
-http://145.239.0.158:8080/live/mehmet/mehmet123/12341.ts
-#EXTINF:-1,DE: DAZN 1 Bar FHD local
-http://145.239.0.158:8080/live/mehmet/mehmet123/12261.ts
-#EXTINF:-1,DE: DAZN 2 Bar FHD local
-http://145.239.0.158:8080/live/mehmet/mehmet123/12262.ts
-#EXTINF:-1,DE:Sport 1
-http://145.239.0.158:8080/live/mehmet/mehmet123/8756.ts
-#EXTINF:-1,DE:Sport1  HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8757.ts
-#EXTINF:-1,DE:EuroNews
-http://145.239.0.158:8080/live/mehmet/mehmet123/8692.ts
-#EXTINF:-1,DE:Eurosport 1 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8693.ts
-#EXTINF:-1,DE:Eurosport 2 HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8694.ts
-#EXTINF:-1,DE:Eurosport 2 HD Xtra
-http://145.239.0.158:8080/live/mehmet/mehmet123/8695.ts
-#EXTINF:-1,DE:Sky Sport 1
-http://145.239.0.158:8080/live/mehmet/mehmet123/8738.ts
-#EXTINF:-1,DE:Sky Sport 2
-http://145.239.0.158:8080/live/mehmet/mehmet123/8739.ts
-#EXTINF:-1,DE:Sky Sport 3
-http://145.239.0.158:8080/live/mehmet/mehmet123/8740.ts
-#EXTINF:-1,DE:Sky Sport 4
-http://145.239.0.158:8080/live/mehmet/mehmet123/8741.ts
-#EXTINF:-1,DE:Sky Sport 5
-http://145.239.0.158:8080/live/mehmet/mehmet123/8742.ts
-#EXTINF:-1,DE:Sky Sport 6
-http://145.239.0.158:8080/live/mehmet/mehmet123/8743.ts
-#EXTINF:-1,DE:Sky Sport 7
-http://145.239.0.158:8080/live/mehmet/mehmet123/8744.ts
-#EXTINF:-1,DE:Sky Sport Austria
-http://145.239.0.158:8080/live/mehmet/mehmet123/8745.ts
-#EXTINF:-1,DE:Sky Sport Austria HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8746.ts
-
-#EXTINF:-1,DE: RTL 2 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15147.ts
-#EXTINF:-1,DE: RTL HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15145.ts
-#EXTINF:-1,DE: RTL_Living_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15144.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15143.ts
 #EXTINF:-1,DE: RTL Passion
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15142.ts
-#EXTINF:-1,DE: Prosieben_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15150.ts
+
 #EXTINF:-1,DE: ProSieben_MAXX_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15149.ts
+
 #EXTINF:-1,DE: SkyAction_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15185.ts
+
 #EXTINF:-1,DE: SkyAtlantic_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15184.ts
-#EXTINF:-1,DE: SkyBundesliga_HD_1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15173.ts
-#EXTINF:-1,DE: SkyCinema_1_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15183.ts
+
 #EXTINF:-1,DE: SkyCinema_24_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15182.ts
-#EXTINF:-1,DE: SkyComedy
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15181.ts
-#EXTINF:-1,DE: SkyEmotion
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15180.ts
-#EXTINF:-1,DE: SkyHits_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15179.ts
-#EXTINF:-1,DE: SkyKrimi
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15178.ts
-#EXTINF:-1,DE: SkyNostalgie
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15177.ts
-#EXTINF:-1,DE: SkySport_News_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15176.ts
+
 #EXTINF:-1,DE: Spiegel_Geschichte_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15138.ts
-#EXTINF:-1,DE: Super_RTL_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15137.ts
+
 #EXTINF:-1,DE: VOX_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15128.ts
+
 #EXTINF:-1,DE: ZDFHD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15129.ts
-#EXTINF:-1,DE: SyFy_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15136.ts
+
 #EXTINF:-1,DE: Sat_1_Gold_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15141.ts
-#EXTINF:-1,DE: 13th Street HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15170.ts
+
 #EXTINF:-1,DE: BIZZ
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15169.ts
+
 #EXTINF:-1,DE: Cartoon_Network
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15167.ts
+
 #EXTINF:-1,DE: Das_Erste_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15166.ts
-#EXTINF:-1,DE: Discovery_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15165.ts
-#EXTINF:-1,DE: Disney_Channel_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15164.ts
-#EXTINF:-1,DE: Disney_Junior_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.ts
-#EXTINF:-1,DE: DMAX_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15161.ts
-#EXTINF:-1,DE: Eurosport 1HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15172.ts
+
 #EXTINF:-1,DE: Eurosport 2HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15171.ts
-#EXTINF:-1,DE: 4 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15160.ts
+
 #EXTINF:-1,DE: History_Channel_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15157.ts
-#EXTINF:-1,DE: National Geographic
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15156.ts
-#EXTINF:-1,DE: Kika_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15155.ts
+
 #EXTINF:-1,DE: Marseburg
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14934.ts
-#EXTINF:-1,DE: NationalGeographic_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15152.ts
+
 #EXTINF:-1,DE: TLC_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15134.ts
+
 #EXTINF:-1,DE: TNT_Comedy_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15133.ts
-#EXTINF:-1,DE: TNT_Film_TCM
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15132.ts
-#EXTINF:-1,DE: TNT_Serie_HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15131.ts
+
 #EXTINF:-1,DE: Universal_HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15130.ts
+
 #EXTINF:-1,DE: TVA Aktuelle
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13611.ts
+
 #EXTINF:-1,DE: WDR HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12245.ts
+
 #EXTINF:-1,DE: 1_2_3  TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19065.ts
+
 #EXTINF:-1,DE: Allgau TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19066.ts
+
 #EXTINF:-1,DE: BADEN TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19067.ts
+
 #EXTINF:-1,DE: Der Aktionar TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19068.ts
+
 #EXTINF:-1,DE: Elbekanal
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19071.ts
+
 #EXTINF:-1,DE: EOTV   HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19072.ts
+
 #EXTINF:-1,DE: Franken Fernsehen  HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19073.ts
+
 #EXTINF:-1,DE: FOLKS
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19075.ts
+
 #EXTINF:-1,DE: ISAR TV HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19076.ts
-#EXTINF:-1,DE: Jukebox
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/17098.ts
+
 #EXTINF:-1,DE: ORF 1 HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19077.ts
+
 #EXTINF:-1,DE: MDF  1  HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19078.ts
+
 #EXTINF:-1,DE: Munchen TV  HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19079.ts
+
 #EXTINF:-1,DE: Noa 4 Hamburg
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19081.ts
+
 #EXTINF:-1,DE: Noa 4 Norderstedt
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19080.ts
+
 #EXTINF:-1,DE: Oberpfalz TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19082.ts
+
 #EXTINF:-1,DE: Offener Kanal Magdeburg
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19083.ts
+
 #EXTINF:-1,DE: OKD TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19084.ts
+
 #EXTINF:-1,DE: QVC
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19093.ts
+
 #EXTINF:-1,DE: Rheinmain TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19086.ts
+
 #EXTINF:-1,DE: RFO
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19085.ts
+
 #EXTINF:-1,DE: TV Oberfranken
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19089.ts
+
 #EXTINF:-1,DE: TV M
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19090.ts
+
 #EXTINF:-1,DE: TVA Ostbayern
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19088.ts
+
 #EXTINF:-1,DE: Welt der Wunder
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19092.ts
+
 #EXTINF:-1,DE: QVC Beauty
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10724.ts
+
 #EXTINF:-1,DE: Sachsen Fernsehen
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10726.ts
+
 #EXTINF:-1,DE: Tv Touring
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14268.ts
+
 #EXTINF:-1,DE: tagesschau24
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8872.ts
+
 #EXTINF:-1,DE: ARD 1
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8327.ts
+
 #EXTINF:-1,DE: DW TV
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8331.ts
-#EXTINF:-1,DE: BOOMERANG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8478.ts
+
 #EXTINF:-1,DE: BR HD LIVE
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10729.ts
+
 #EXTINF:-1,DE: Das Erste
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10731.ts
+
 #EXTINF:-1,DE: Deutsches Musik Fernsehen
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10728.ts
+
 #EXTINF:-1,DE: Dresden Fernsehen
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10721.ts
+
 #EXTINF:-1,DE: Leipzig Fernsehen
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10722.ts
+
 #EXTINF:-1,DE: HALLE
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14148.ts
+
 #EXTINF:-1,DE: HR HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14251.ts
+
 #EXTINF:-1,DE: NDR HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11650.ts
+
 #EXTINF:-1,DE: OK MAGDEBURG
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14150.ts
+
 #EXTINF:-1,DE: OK SALZWEDEL
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14548.ts
+
 #EXTINF:-1,DE: SALZWEDEL
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14151.ts
 
-#EXTINF:-1,DE:VOX
-http://novaiptv.info:80/live/amar/12345/5054.ts
 #EXTINF:-1,DE:1-2-3.tv
 http://novaiptv.info:80/live/amar/12345/5043.ts
+
 #EXTINF:-1,DE:13th.Street
 http://novaiptv.info:80/live/amar/12345/5023.ts
-#EXTINF:-1,DE:3sat
-http://novaiptv.info:80/live/amar/12345/5055.ts
-#EXTINF:-1,DE:A&E
-http://novaiptv.info:80/live/amar/12345/4997.ts
-#EXTINF:-1,DE:Anixe
-http://novaiptv.info:80/live/amar/12345/5052.ts
-#EXTINF:-1,DE:AXN
-http://novaiptv.info:80/live/amar/12345/5017.ts
-#EXTINF:-1,DE:Beate-Uhse.TV
-http://novaiptv.info:80/live/amar/12345/5042.ts
-#EXTINF:-1,DE:Boomerang
-http://novaiptv.info:80/live/amar/12345/4987.ts
+
 #EXTINF:-1,DE:Cartoon.Network
 http://novaiptv.info:80/live/amar/12345/4986.ts
+
 #EXTINF:-1,DE:Channel21
 http://novaiptv.info:80/live/amar/12345/5021.ts
+
 #EXTINF:-1,DE:Classica
 http://novaiptv.info:80/live/amar/12345/5003.ts
-#EXTINF:-1,DE:Comedy.Central
-http://novaiptv.info:80/live/amar/12345/5019.ts
+
 #EXTINF:-1,DE:Das.Erste
 http://novaiptv.info:80/live/amar/12345/5064.ts
+
 #EXTINF:-1,DE:Deluxe.Music
 http://novaiptv.info:80/live/amar/12345/4995.ts
+
 #EXTINF:-1,DE:Discovery
 http://novaiptv.info:80/live/amar/12345/5002.ts
+
 #EXTINF:-1,DE:Disney.Channel
 http://novaiptv.info:80/live/amar/12345/4991.ts
+
 #EXTINF:-1,DE:Disney.Cinemagic
 http://novaiptv.info:80/live/amar/12345/4990.ts
+
 #EXTINF:-1,DE:Disney.Junior
 http://novaiptv.info:80/live/amar/12345/4989.ts
+
 #EXTINF:-1,DE:Disney.XD
 http://novaiptv.info:80/live/amar/12345/4988.ts
+
 #EXTINF:-1,DE:Dmax
 http://novaiptv.info:80/live/amar/12345/4998.ts
+
 #EXTINF:-1,DE:E.Entertainm
 http://novaiptv.info:80/live/amar/12345/4996.ts
+
 #EXTINF:-1,DE:eoTV
 http://novaiptv.info:80/live/amar/12345/5051.ts
+
 #EXTINF:-1,DE:Euronews.German
 http://novaiptv.info:80/live/amar/12345/5041.ts
+
 #EXTINF:-1,DE:Eurosport1
 http://novaiptv.info:80/live/amar/12345/4983.ts
+
 #EXTINF:-1,DE:Eurosport2.Xtra
 http://novaiptv.info:80/live/amar/12345/4982.ts
+
 #EXTINF:-1,DE:EWTN.katholisches.TV
 http://novaiptv.info:80/live/amar/12345/5039.ts
+
 #EXTINF:-1,DE:Family.TV
 http://novaiptv.info:80/live/amar/12345/5022.ts
+
 #EXTINF:-1,DE:Fox
 http://novaiptv.info:80/live/amar/12345/5015.ts
+
 #EXTINF:-1,DE:History
 http://novaiptv.info:80/live/amar/12345/4999.ts
+
 #EXTINF:-1,DE:Junior
 http://novaiptv.info:80/live/amar/12345/4994.ts
+
 #EXTINF:-1,DE:Kabel1
 http://novaiptv.info:80/live/amar/12345/5060.ts
+
 #EXTINF:-1,DE:KiKA
 http://novaiptv.info:80/live/amar/12345/4992.ts
+
 #EXTINF:-1,DE:Kinowelt.TV
 http://novaiptv.info:80/live/amar/12345/5050.ts
+
 #EXTINF:-1,DE:Motorvision.TV
 http://novaiptv.info:80/live/amar/12345/4984.ts
+
 #EXTINF:-1,DE:MTV
 http://novaiptv.info:80/live/amar/12345/5049.ts
+
 #EXTINF:-1,DE:N.TV
 http://novaiptv.info:80/live/amar/12345/5048.ts
+
 #EXTINF:-1,DE:N24.Doku
 http://novaiptv.info:80/live/amar/12345/5047.ts
+
 #EXTINF:-1,DE:NatGeo
 http://novaiptv.info:80/live/amar/12345/5001.ts
+
 #EXTINF:-1,DE:NatGeo.Wild
 http://novaiptv.info:80/live/amar/12345/5000.ts
+
 #EXTINF:-1,DE:Nicklodeon.AT
 http://novaiptv.info:80/live/amar/12345/4985.ts
+
 #EXTINF:-1,DE:Nitro
 http://novaiptv.info:80/live/amar/12345/5046.ts
+
 #EXTINF:-1,DE:One
 http://novaiptv.info:80/live/amar/12345/5045.ts
+
 #EXTINF:-1,DE:ORF1
 http://novaiptv.info:80/live/amar/12345/5037.ts
+
 #EXTINF:-1,DE:ORF2
 http://novaiptv.info:80/live/amar/12345/5036.ts
+
 #EXTINF:-1,DE:Pro7
 http://novaiptv.info:80/live/amar/12345/5059.ts
+
 #EXTINF:-1,DE:Pro7.Maxx
 http://novaiptv.info:80/live/amar/12345/5058.ts
+
 #EXTINF:-1,DE:Romance.TV
 http://novaiptv.info:80/live/amar/12345/5020.ts
+
 #EXTINF:-1,DE:RTL
 http://novaiptv.info:80/live/amar/12345/5035.ts
+
 #EXTINF:-1,DE:RTL.Crime
 http://novaiptv.info:80/live/amar/12345/5031.ts
+
 #EXTINF:-1,DE:RTL.Living
 http://novaiptv.info:80/live/amar/12345/5032.ts
+
 #EXTINF:-1,DE:RTL.Nitro
 http://novaiptv.info:80/live/amar/12345/5033.ts
+
 #EXTINF:-1,DE:RTL.Passion
 http://novaiptv.info:80/live/amar/12345/5030.ts
+
 #EXTINF:-1,DE:RTL.plus
 http://novaiptv.info:80/live/amar/12345/5029.ts
+
 #EXTINF:-1,DE:RTL2
 http://novaiptv.info:80/live/amar/12345/5034.ts
+
 #EXTINF:-1,DE:SAT.1.Gold
 http://novaiptv.info:80/live/amar/12345/5056.ts
+
 #EXTINF:-1,DE:SAT1
 http://novaiptv.info:80/live/amar/12345/5057.ts
+
 #EXTINF:-1,DE:Sixx
 http://novaiptv.info:80/live/amar/12345/5053.ts
+
 #EXTINF:-1,DE:Sky.Bundesliga1
 http://novaiptv.info:80/live/amar/12345/4976.ts
+
 #EXTINF:-1,DE:Sky.Cinema.Family
 http://novaiptv.info:80/live/amar/12345/5010.ts
+
 #EXTINF:-1,DE:Sky.Select10
 http://novaiptv.info:80/live/amar/12345/4966.ts
+
 #EXTINF:-1,DE:Sky.Select4
 http://novaiptv.info:80/live/amar/12345/4972.ts
+
 #EXTINF:-1,DE:Sky.Select5
 http://novaiptv.info:80/live/amar/12345/4971.ts
+
 #EXTINF:-1,DE:Sky.Select8
 http://novaiptv.info:80/live/amar/12345/4968.ts
+
 #EXTINF:-1,DE:SKY.Sport.News
 http://novaiptv.info:80/live/amar/12345/4980.ts
+
 #EXTINF:-1,DE:SkyAction
 http://novaiptv.info:80/live/amar/12345/5011.ts
+
 #EXTINF:-1,DE:SKYAtlantic
 http://novaiptv.info:80/live/amar/12345/5006.ts
+
 #EXTINF:-1,DE:SKYCinema
 http://novaiptv.info:80/live/amar/12345/5014.ts
+
 #EXTINF:-1,DE:SkyCinema.1
 http://novaiptv.info:80/live/amar/12345/5013.ts
+
 #EXTINF:-1,DE:SKYCinema24
 http://novaiptv.info:80/live/amar/12345/5012.ts
+
 #EXTINF:-1,DE:SkyComedy
 http://novaiptv.info:80/live/amar/12345/5005.ts
+
 #EXTINF:-1,DE:SKYEmotion
 http://novaiptv.info:80/live/amar/12345/5004.ts
+
 #EXTINF:-1,DE:SKYHits
 http://novaiptv.info:80/live/amar/12345/5009.ts
+
 #EXTINF:-1,DE:SKYKrimi
 http://novaiptv.info:80/live/amar/12345/5008.ts
+
 #EXTINF:-1,DE:SKYNostalgie
 http://novaiptv.info:80/live/amar/12345/5007.ts
+
 #EXTINF:-1,DE:SkySelect1
 http://novaiptv.info:80/live/amar/12345/4975.ts
-#EXTINF:-1,DE:SkySelect2
-http://novaiptv.info:80/live/amar/12345/4974.ts
+
 #EXTINF:-1,DE:SkySelect3
 http://novaiptv.info:80/live/amar/12345/4973.ts
+
 #EXTINF:-1,DE:SkySelect6
 http://novaiptv.info:80/live/amar/12345/4970.ts
+
 #EXTINF:-1,DE:SkySelect7
 http://novaiptv.info:80/live/amar/12345/4969.ts
+
 #EXTINF:-1,DE:SkySelect9
 http://novaiptv.info:80/live/amar/12345/4967.ts
-#EXTINF:-1,DE:SkySport.Bundesliga10 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4947.ts
-#EXTINF:-1,DE:SkySport.Bundesliga2 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4955.ts
-#EXTINF:-1,DE:SkySport.Bundesliga3 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4954.ts
-#EXTINF:-1,DE:SkySport.Bundesliga4 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4953.ts
-#EXTINF:-1,DE:SkySport.Bundesliga5 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4952.ts
-#EXTINF:-1,DE:SkySport.Bundesliga6 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4951.ts
-#EXTINF:-1,DE:SkySport.Bundesliga7 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4950.ts
-#EXTINF:-1,DE:SkySport.Bundesliga8 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4949.ts
-#EXTINF:-1,DE:SkySport.Bundesliga9 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4948.ts
-#EXTINF:-1,DE:SkySport1
-http://novaiptv.info:80/live/amar/12345/4978.ts
-#EXTINF:-1,DE:SkySport10 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4957.ts
-#EXTINF:-1,DE:SkySport11 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4956.ts
-#EXTINF:-1,DE:SkySport2
-http://novaiptv.info:80/live/amar/12345/4977.ts
-#EXTINF:-1,DE:SkySport3 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4965.ts
-#EXTINF:-1,DE:SkySport4 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4964.ts
-#EXTINF:-1,DE:SkySport5
-http://novaiptv.info:80/live/amar/12345/4963.ts
-#EXTINF:-1,DE:SkySport5 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4962.ts
-#EXTINF:-1,DE:SkySport6 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4961.ts
-#EXTINF:-1,DE:SkySport7 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4960.ts
-#EXTINF:-1,DE:SkySport8 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4959.ts
-#EXTINF:-1,DE:SkySport9 ( Match time )
-http://novaiptv.info:80/live/amar/12345/4958.ts
+
 #EXTINF:-1,DE:SkySportAustria
 http://novaiptv.info:80/live/amar/12345/4979.ts
+
 #EXTINF:-1,DE:Spiegel.Geschichte
 http://novaiptv.info:80/live/amar/12345/5040.ts
+
 #EXTINF:-1,DE:Sport1
 http://novaiptv.info:80/live/amar/12345/4981.ts
+
 #EXTINF:-1,DE:Super.RTL
 http://novaiptv.info:80/live/amar/12345/5028.ts
+
 #EXTINF:-1,DE:SyFy
 http://novaiptv.info:80/live/amar/12345/5016.ts
+
 #EXTINF:-1,DE:Tagesschau24
 http://novaiptv.info:80/live/amar/12345/5038.ts
+
 #EXTINF:-1,DE:TLC
 http://novaiptv.info:80/live/amar/12345/5018.ts
+
 #EXTINF:-1,DE:TNT.Comedy
 http://novaiptv.info:80/live/amar/12345/5025.ts
+
 #EXTINF:-1,DE:TNT.Filme
 http://novaiptv.info:80/live/amar/12345/5026.ts
+
 #EXTINF:-1,DE:TNT.Series
 http://novaiptv.info:80/live/amar/12345/5027.ts
+
 #EXTINF:-1,DE:TOGGO.plus
 http://novaiptv.info:80/live/amar/12345/4993.ts
+
 #EXTINF:-1,DE:Universal
 http://novaiptv.info:80/live/amar/12345/5024.ts
+
 #EXTINF:-1,DE:ZDF
 http://novaiptv.info:80/live/amar/12345/5063.ts
+
 #EXTINF:-1,DE:ZDF.Info
 http://novaiptv.info:80/live/amar/12345/5062.ts
+
 #EXTINF:-1,DE:ZDF.NEO
 http://novaiptv.info:80/live/amar/12345/5061.ts
-
-#EXTINF:-1,De- 13th Street HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12372.ts
-#EXTINF:-1,De- 3Sat HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12203.ts
-#EXTINF:-1,De- A&E
-http://m-iptv.net:6204/live/zanyar/zanyar/12272.ts
-#EXTINF:-1,De- Animal Planet HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12286.ts
-#EXTINF:-1,De- Anixe Serie FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12191.ts
-#EXTINF:-1,De- Arte FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12202.ts
-#EXTINF:-1,De- Arte HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12201.ts
-#EXTINF:-1,De- ATV HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12200.ts
-#EXTINF:-1,De- Auto Motor Sport HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12356.ts
-#EXTINF:-1,De- AXN HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12374.ts
-#EXTINF:-1,De- Baby TV
-http://m-iptv.net:6204/live/zanyar/zanyar/12264.ts
-#EXTINF:-1,De- Boomerang
-http://m-iptv.net:6204/live/zanyar/zanyar/12266.ts
-#EXTINF:-1,De- Cartoon Network HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12267.ts
-#EXTINF:-1,De- Classica SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12255.ts
-#EXTINF:-1,De- Das Erste
-http://m-iptv.net:6204/live/zanyar/zanyar/12211.ts
-#EXTINF:-1,De- Das Erste FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12213.ts
-#EXTINF:-1,De- Das Erste HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12212.ts
-#EXTINF:-1,De- DAZN  1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12339.ts
-#EXTINF:-1,De- DAZN  2 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12338.ts
-#EXTINF:-1,De- Deluxe Music
-http://m-iptv.net:6204/live/zanyar/zanyar/12256.ts
-#EXTINF:-1,De- Deutsches Musik Fernsehen
-http://m-iptv.net:6204/live/zanyar/zanyar/12254.ts
-#EXTINF:-1,De- Discovery Channel HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12284.ts
-#EXTINF:-1,De- Disney Channel HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12271.ts
-#EXTINF:-1,De- Disney CineMagic SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12270.ts
-#EXTINF:-1,De- Disney Junior HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12269.ts
-#EXTINF:-1,De- Disney XD SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12268.ts
-#EXTINF:-1,De- Dmax HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12361.ts
-#EXTINF:-1,De- E! HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12366.ts
-#EXTINF:-1,De- EuroNews
-http://m-iptv.net:6204/live/zanyar/zanyar/12244.ts
-#EXTINF:-1,De- EuroSport 1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12350.ts
-#EXTINF:-1,De- EuroSport 1 HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12349.ts
-#EXTINF:-1,De- EuroSport 2 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12348.ts
-#EXTINF:-1,De- EuroSport 2 HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12347.ts
-#EXTINF:-1,De- EuroSport 2 Xtra FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12346.ts
-#EXTINF:-1,De- EuroSport 2 Xtra HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12345.ts
-#EXTINF:-1,De- EuroSport360 1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12344.ts
-#EXTINF:-1,De- Eurosport360 2 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12343.ts
-#EXTINF:-1,De- EuroSport360 3 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12342.ts
-#EXTINF:-1,De- EuroSport360 4 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12341.ts
-#EXTINF:-1,De- Eurosport360 5 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12340.ts
-#EXTINF:-1,De- Fashion TV
-http://m-iptv.net:6204/live/zanyar/zanyar/12279.ts
-#EXTINF:-1,De- Fix & Foxi
-http://m-iptv.net:6204/live/zanyar/zanyar/12265.ts
-#EXTINF:-1,De- Fox HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12376.ts
-#EXTINF:-1,De- Genius Plus
-http://m-iptv.net:6204/live/zanyar/zanyar/12190.ts
-#EXTINF:-1,De- History FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12283.ts
-#EXTINF:-1,De- HSE24 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12189.ts
-#EXTINF:-1,De- Junior HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12263.ts
-#EXTINF:-1,De- Juwelo FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12188.ts
-#EXTINF:-1,De- Kabel eins Classic HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12214.ts
-#EXTINF:-1,De- Kabel eins Doku
-http://m-iptv.net:6204/live/zanyar/zanyar/12281.ts
-#EXTINF:-1,De- Kabel eins HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12215.ts
-#EXTINF:-1,De- Kika HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12262.ts
-#EXTINF:-1,De- Kinowelt HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12368.ts
-#EXTINF:-1,De- Motorvision HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12355.ts
-#EXTINF:-1,De- MTV Brand New
-http://m-iptv.net:6204/live/zanyar/zanyar/12252.ts
-#EXTINF:-1,De- MTV Classic
-http://m-iptv.net:6204/live/zanyar/zanyar/12251.ts
-#EXTINF:-1,De- MTV Dance
-http://m-iptv.net:6204/live/zanyar/zanyar/12250.ts
-#EXTINF:-1,De- MTV Europe
-http://m-iptv.net:6204/live/zanyar/zanyar/12249.ts
-#EXTINF:-1,De- MTV HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12253.ts
-#EXTINF:-1,De- MTV Hits
-http://m-iptv.net:6204/live/zanyar/zanyar/12248.ts
-#EXTINF:-1,De- MTV Live HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12247.ts
-#EXTINF:-1,De- MTV Rocks
-http://m-iptv.net:6204/live/zanyar/zanyar/12246.ts
-#EXTINF:-1,De- N-TV HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12245.ts
-#EXTINF:-1,De- N24 Doku
-http://m-iptv.net:6204/live/zanyar/zanyar/12282.ts
-#EXTINF:-1,De- Nat Geo HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12288.ts
-#EXTINF:-1,De- Nat Geo Wild HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12287.ts
-#EXTINF:-1,De- NDR HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12199.ts
-#EXTINF:-1,De- Nickelodeon HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12261.ts
-#EXTINF:-1,De- One HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12198.ts
-#EXTINF:-1,De- ORF 1 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12196.ts
-#EXTINF:-1,De- ORF 2 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12195.ts
-#EXTINF:-1,De- ORF Eins FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12197.ts
-#EXTINF:-1,De- ORF Sport  HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12194.ts
-#EXTINF:-1,De- Phoenix
-http://m-iptv.net:6204/live/zanyar/zanyar/12273.ts
-#EXTINF:-1,De- Planet HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12285.ts
-#EXTINF:-1,De- Pro 7 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12228.ts
-#EXTINF:-1,De- Pro 7 Maxx HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12225.ts
-#EXTINF:-1,De- Pro7
-http://m-iptv.net:6204/live/zanyar/zanyar/12227.ts
-#EXTINF:-1,De- Pro7 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12229.ts
-#EXTINF:-1,De- Pro7 Fun  FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12230.ts
-#EXTINF:-1,De- Pro7 Maxx FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12226.ts
-#EXTINF:-1,De- Pro7 Maxx SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12224.ts
-#EXTINF:-1,De- Romance TV
-http://m-iptv.net:6204/live/zanyar/zanyar/12193.ts
-#EXTINF:-1,De- RTL Crime SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12365.ts
-#EXTINF:-1,De- RTL FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12243.ts
-#EXTINF:-1,De- RTL HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12242.ts
-#EXTINF:-1,De- RTL II
-http://m-iptv.net:6204/live/zanyar/zanyar/12238.ts
-#EXTINF:-1,De- RTL II FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12240.ts
-#EXTINF:-1,De- RTL II HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12239.ts
-#EXTINF:-1,De- RTL Living HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12362.ts
-#EXTINF:-1,De- RTL Nitro HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12217.ts
-#EXTINF:-1,De- RTL Passion HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12364.ts
-#EXTINF:-1,De- RTL Passion SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12363.ts
-#EXTINF:-1,De- RTL Plus SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12237.ts
-#EXTINF:-1,De- RTL SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12241.ts
-#EXTINF:-1,De- Sat.1
-http://m-iptv.net:6204/live/zanyar/zanyar/12231.ts
-#EXTINF:-1,De- Sat.1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12233.ts
-#EXTINF:-1,De- Sat.1 Gold FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12220.ts
-#EXTINF:-1,De- Sat.1 Gold SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12218.ts
-#EXTINF:-1,De- Sat.1 HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12232.ts
-#EXTINF:-1,De- Sat1 Emotions
-http://m-iptv.net:6204/live/zanyar/zanyar/12216.ts
-#EXTINF:-1,De- Sat1 Gold HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12219.ts
-#EXTINF:-1,De- Sixx FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12223.ts
-#EXTINF:-1,De- SIXX HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12222.ts
-#EXTINF:-1,De- Sixx SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12221.ts
-#EXTINF:-1,De- Sky 1 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12379.ts
-#EXTINF:-1,De- Sky Arts HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12276.ts
-#EXTINF:-1,De- Sky Atlantic
-http://m-iptv.net:6204/live/zanyar/zanyar/12378.ts
-#EXTINF:-1,De- Sky Cinema  1 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12397.ts
-#EXTINF:-1,De- Sky Cinema  24 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12396.ts
-#EXTINF:-1,De- Sky Cinema Action HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12395.ts
-#EXTINF:-1,De- Sky Cinema Comedy SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12392.ts
-#EXTINF:-1,De- Sky Cinema Emotion SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12391.ts
-#EXTINF:-1,De- Sky Cinema Family HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12394.ts
-#EXTINF:-1,De- Sky Cinema HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12398.ts
-#EXTINF:-1,De- Sky Cinema Hits HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12393.ts
-#EXTINF:-1,De- Sky Cinema Nostalgie SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12390.ts
-#EXTINF:-1,De- Sky Krimi SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12377.ts
-#EXTINF:-1,De- Sky Select 1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12387.ts
-#EXTINF:-1,De- Sky Select 2 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12386.ts
-#EXTINF:-1,De- Sky Select 3 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12385.ts
-#EXTINF:-1,De- Sky Select 4 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12384.ts
-#EXTINF:-1,De- Sky Select 5 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12383.ts
-#EXTINF:-1,De- Sky Select 6 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12382.ts
-#EXTINF:-1,De- Sky Select 7 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12381.ts
-#EXTINF:-1,De- Sky Select 8 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12380.ts
-#EXTINF:-1,De- Sky Sport  Austria FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12354.ts
-#EXTINF:-1,De- Sky Sport 1
-http://m-iptv.net:6204/live/zanyar/zanyar/12335.ts
-#EXTINF:-1,De- Sky Sport 1 FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12337.ts
-#EXTINF:-1,De- Sky Sport 1 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12336.ts
-#EXTINF:-1,De- Sky Sport News FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12352.ts
-#EXTINF:-1,De- Sky Sport News HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12351.ts
-#EXTINF:-1,De- Sony Enterainment HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12367.ts
-#EXTINF:-1,De- Spiegel Tv Geschichte HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12275.ts
-#EXTINF:-1,De- Spiegel TV Wissen HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12274.ts
-#EXTINF:-1,De- Sport 1 HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12360.ts
-#EXTINF:-1,De- Sport1  HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12359.ts
-#EXTINF:-1,De- Sport1 US FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12358.ts
-#EXTINF:-1,De- Sportdigital HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12357.ts
-#EXTINF:-1,De- Super RTL FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12259.ts
-#EXTINF:-1,De- Super RTL HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12258.ts
-#EXTINF:-1,De- Super RTL SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12257.ts
-#EXTINF:-1,De- SyFy SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12375.ts
-#EXTINF:-1,De- Tele 5 HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12192.ts
-#EXTINF:-1,De- TLC HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12278.ts
-#EXTINF:-1,De- TNT Comedy HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12369.ts
-#EXTINF:-1,De- TNT Film HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12371.ts
-#EXTINF:-1,De- TNT Serie HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12370.ts
-#EXTINF:-1,De- Toggo Plus
-http://m-iptv.net:6204/live/zanyar/zanyar/12260.ts
-#EXTINF:-1,De- Travel Channel FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12280.ts
-#EXTINF:-1,De- Universal Channel HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12373.ts
-#EXTINF:-1,De- VOX  HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12235.ts
-#EXTINF:-1,De- VOX FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12236.ts
-#EXTINF:-1,De- VOX SD
-http://m-iptv.net:6204/live/zanyar/zanyar/12234.ts
-#EXTINF:-1,De- ZDF
-http://m-iptv.net:6204/live/zanyar/zanyar/12208.ts
-#EXTINF:-1,De- ZDF FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12210.ts
-#EXTINF:-1,De- ZDF HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12209.ts
-#EXTINF:-1,De- ZDF Info HD
-http://m-iptv.net:6204/live/zanyar/zanyar/12207.ts
-#EXTINF:-1,De- ZDF Neo
-http://m-iptv.net:6204/live/zanyar/zanyar/12204.ts
-#EXTINF:-1,De- ZDF Neo FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12206.ts
-#EXTINF:-1,De- ZDF Neo HD.
-http://m-iptv.net:6204/live/zanyar/zanyar/12205.ts
-#EXTINF:-1,De- Zee One
-http://m-iptv.net:6204/live/zanyar/zanyar/12388.ts
-#EXTINF:-1,De- Zee One FHD
-http://m-iptv.net:6204/live/zanyar/zanyar/12389.ts
